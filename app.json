@@ -1,7 +1,7 @@
 {
-    "name": "Arnop Music",
+    "name": "elrsham Music",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": "https://telegra.ph/file/d1e63fd831eae0bde499c.jpg",
+    "logo": "https://telegra.ph/file/ff00a7e3e38fff5c92525.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -55,7 +55,7 @@
       },
       "MONGO_DB_URI": {
         "description": "قاعدة البيانات",
-        "value": "",
+        "value": ""mongodb+srv://shikhar:shikhar@cluster0.6xzlh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority,
         "required": true
       },
       "MUSIC_BOT_NAME": {
@@ -80,7 +80,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "رابط الريبو الخاص فيك",
-        "value": "https://github.com/alhajji",
+        "value": "https://github.com/sorselrsam/AhmedQa",
         "required": true
       },
       "UPSTREAM_BRANCH": {
