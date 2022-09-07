@@ -69,7 +69,7 @@ async def khalid(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "𝚂𝙾𝚄𝚁𝙲𝙴 𝙰𝚁𝙽𝙾𝙱", url=f"https://t.me/l_YT_l"),
+                        "𝚂𝙾𝚄𝚁𝙲𝙴 ᥱ︎ꪶɾ᥉𝗁︎ᥲ️︎ꪔ", url=f"https://t.me/EL_RASA"),
                 ],
             ]
         ),
@@ -89,7 +89,7 @@ async def khalid(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "𝚂𝙾𝚄𝚁𝙲𝙴 𝙰𝚁𝙽𝙾𝙱", url=f"https://t.me/l_YT_l"),
+                        "𝚂𝙾𝚄𝚁𝙲𝙴 ᥱ︎ꪶɾ᥉𝗁︎ᥲ️︎ꪔ", url=f"https://t.me/EL_RASA"),
                 ],
             ]
         ),
@@ -126,21 +126,21 @@ async def khalid(client: Client, message: Message):
     )
                     
 @app.on_message(
-     command(["مبرمج السورس","المطور","مطور السورس","افيونا"])
+     command(["مبرمج السورس","محمود","مطور السورس","رسام"])
     & filters.group
     & ~filters.edited
 )
 async def khalid(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/d1e63fd831eae0bde499c.jpg",
-        caption=f"""𝐖𝐄𝑳𝐂𝐎𝐌𝐄 𝐓𝐎 𝐓𝐇𝐄 𝐀𝐑𝐍𝐎𝐏 𝐒𝐎𝐔𝐑𝐂𝐄𝐒""",
+        photo=f"https://telegra.ph/file/ff00a7e3e38fff5c92525.jpg",
+        caption=f"""𝐖𝐄𝑳𝐂𝐎𝐌𝐄 𝐓𝐎 𝐓𝐇𝐄 𝙚𝙡 𝙧𝙨𝙝𝙖𝙢 𝐒𝐎𝐔𝐑𝐂𝐄𝐒""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                InlineKeyboardButton("𝙰𝙵𝚈𝙾𝙽𝙰 𝙱𝙰𝚂𝙷", url=f"https://t.me/l_03_l"),
+                InlineKeyboardButton("ᥱ︎ꪶɾ᥉𝗁︎ᥲ️︎ꪔ", url=f"https://t.me/Mahmod777777"),
                 ],[
                 InlineKeyboardButton(
-                        "𝚂𝙾𝚄𝚁𝙲𝙴 𝙰𝚁𝙽𝙾𝙱", url=f"https://t.me/l_YT_l"),
+                        "𝚂𝙾𝚄𝚁𝙲𝙴 𝙰𝚁𝙽𝙾𝙱", url=f"https://t.me/EL_RASA"),
                 ]
             ]
         ),
@@ -153,13 +153,13 @@ async def khalid(client: Client, message: Message):
 )
 async def khalid(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/d1e63fd831eae0bde499c.jpg",
-                caption=f"""[𝐖𝐄𝑳𝐂𝐎𝐌𝐄 𝐓𝐎 𝐓𝐇𝐄 𝐀𝐑𝐍𝐎𝐏 𝐒𝐎𝐔𝐑𝐂𝐄𝐒 ](https://t.me/l_YT_l)\n\n[𝙎𝙊𝙐𝙍𝘾𝙀 𝙊𝙉 𝙏𝙀𝙇𝙀𝙂𝙍𝘼𝙈](https://t.me/Ng_221)\n\n[𝙰𝙵𝚈𝙾𝙽𝙰 𝙱𝙰𝚂𝙷](https://t.me/l_03_l)\n\n[𝚗𝚊𝚍𝚎𝚛 𝚋𝚊𝚜𝚑](https://t.me/Ng_103)""",
+        photo=f"https://telegra.ph/file/ff00a7e3e38fff5c92525.jpg",
+                caption=f"""[𝐖𝐄𝑳𝐂𝐎𝐌𝐄 𝐓𝐎 𝐓𝐇𝐄 𝙚𝙡𝙧𝙨𝙝𝙖𝙢 𝐒𝐎𝐔𝐑𝐂𝐄𝐒 ](https://t.me/EL_RASA)\n\n[𝙎𝙊𝙐𝙍𝘾𝙀 𝙊𝙉 𝙏𝙀𝙇𝙀𝙂𝙍𝘼𝙈](https://t.me/EL_RASA)\n\n[ᥱ︎ꪶɾ᥉𝗁︎ᥲ️︎ꪔ](https://t.me/Mahmod777777)""",
         reply_markup=InlineKeyboardMarkup(
         [
             [
                 InlineKeyboardButton(
-                        "𝙰𝙵𝚈𝙾𝙽𝙰 𝙱𝙰𝚂𝙷", url=f"https://t.me/l_03_l"),
+                        "ᥱ︎ꪶɾ᥉𝗁︎ᥲ️︎ꪔ", url=f"https://t.me/EL_RASA"),
             ],[
                 InlineKeyboardButton("✚ أضفني الى مجموعتك", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
             ]
